@@ -2,7 +2,7 @@
 
 TODO: Write a description here
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/drhuffman12/drh-example)
+![GitHub tag (latest by date)](GET /github/v/release/drhuffman12/drh_example)
 
 ## Installation
 
