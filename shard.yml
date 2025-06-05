@@ -1,5 +1,6 @@
 name: drh-example
 version: 0.1.0
+version: Drh::Example::VERSION
 
 authors:
   - drhuffman12 <drhuffman12@gmail.com>
